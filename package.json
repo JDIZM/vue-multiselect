@@ -103,7 +103,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/shentao/vue-multiselect.git"
+    "url": "git+https://github.com/JDIZM/vue-multiselect.git"
   },
   "description": "Multiselect component for vue.js",
   "unpkg": "dist/vue-multiselect.min.js",
