@@ -517,12 +517,12 @@ export default {
         this.search = ''
         if (this.closeOnSelect && !this.multiple) this.deactivate()
       } else {
-        const isSelected = this.isSelected(option)
+        // const isSelected = this.isSelected(option)
 
-        if (isSelected) {
-          if (key !== 'Tab') this.removeElement(option)
-          return
-        }
+        // if (isSelected) {
+        //   if (key !== 'Tab') this.removeElement(option)
+        //   return
+        // }
 
         this.$emit('select', option, this.id)
 
