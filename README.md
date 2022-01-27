@@ -1,9 +1,53 @@
 # vue-multiselect ![Build Status](https://circleci.com/gh/shentao/vue-multiselect/tree/2.0.svg?style=shield&circle-token=5c931ff28fd12587610f835472becdd514d09cef)[![Codecov branch](https://img.shields.io/codecov/c/github/shentao/vue-multiselect/2.0.svg)](https://codecov.io/gh/shentao/vue-multiselect/branch/2.0)[![npm](https://img.shields.io/npm/v/vue-multiselect.svg)](https://www.npmjs.com/package/vue-multiselect)
 Probably the most complete *selecting* solution for Vue.js 2.0, without jQuery.
 
-![Vue-Multiselect Screen](https://raw.githubusercontent.com/shentao/vue-multiselect/2.0/multiselect-screen-203.png)
+### Vue 3.0 Support
+For Vue 3.0 compatible version see [`next`](https://github.com/shentao/vue-multiselect/tree/next) branch.
 
-### Features & characteristics:
+<a href="https://vue-multiselect.js.org/">
+  <img src="/multiselect-screen-203.png" alt="Vue-Multiselect Screen">
+</a>
+
+## Documentation
+Visit: [vue-multiselect.js.org](https://vue-multiselect.js.org/#sub-getting-started)
+
+## Sponsors
+
+### Gold
+
+<p align="center">
+  <a href="https://vuejs.amsterdam/?utm_source=newsletter&utm_medium=logo&utm_campaign=vuejs-newsletter" target="_blank">
+    <img src="https://cdn.discordapp.com/attachments/793583797454503976/793583831369646120/vuejsamsterdam.png" alt="Vuejs Amsterdam" width="380px">
+  </a>
+</p>
+<p align="center">
+  <a href="https://theroadtoenterprise.com/?utm_source=newsletter&utm_medium=logo&utm_campaign=vuejs-newsletter" target="_blank">
+    <img src="https://cdn.discordapp.com/attachments/793583797454503976/809062891420123166/logo.png" alt="Vue - The Road To Enterprise" width="380px">
+  </a>
+</p>
+<p align="center">
+  <a href="https://suade.org/" target="_blank">
+    <img src="https://tinyurl.com/suadelogo" alt="Suade Labs" width="200px">
+  </a>
+</p>
+
+### Silver
+
+<p align="center">
+  <a href="https://www.storyblok.com/developers?utm_source=newsletter&utm_medium=logo&utm_campaign=vuejs-newsletter" target="_blank">
+    <img src="https://a.storyblok.com/f/51376/3856x824/fea44d52a9/colored-full.png" alt="Storyblok" width="240px">
+  </a>
+</p>
+
+### Bronze
+
+<p align="center">
+  <a href="https://www.vuemastery.com/" target="_blank">
+    <img src="https://cdn.discordapp.com/attachments/258614093362102272/557267759130607630/Vue-Mastery-Big.png" alt="Vue Mastery logo" width="180px">
+  </a>
+</p>
+
+## Features & characteristics:
 * NO dependencies
 * Single select
 * Multiple select
