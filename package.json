@@ -95,7 +95,7 @@
   "author": "Damian Dulisz <damian.dulisz@gmail.com>",
   "jsnext:main": "dist/vue-multiselect.min.js",
   "bugs": {
-    "url": "https://github.com/shentao/vue-multiselect/issues"
+    "url": "https://github.com/JDIZM/vue-multiselect/issues"
   },
   "jspm": {
     "main": "dist/vue-multiselect.min.js",
