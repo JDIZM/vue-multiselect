@@ -91,14 +91,14 @@
   },
   "license": "MIT",
   "homepage": "https://shentao.github.io/vue-multiselect/",
-  "main": "dist/vue-multiselect.min.js",
+  "main": "src/index.js",
   "author": "Damian Dulisz <damian.dulisz@gmail.com>",
-  "jsnext:main": "dist/vue-multiselect.min.js",
+  "jsnext:main": "src/index.js",
   "bugs": {
     "url": "https://github.com/JDIZM/vue-multiselect/issues"
   },
   "jspm": {
-    "main": "dist/vue-multiselect.min.js",
+    "main": "src/index.js",
     "registry": "npm",
     "format": "esm"
   },
@@ -107,7 +107,7 @@
     "url": "git+https://github.com/JDIZM/vue-multiselect.git"
   },
   "description": "Multiselect component for vue.js",
-  "unpkg": "dist/vue-multiselect.min.js",
+  "unpkg": "src/index.js",
   "engines": {
     "node": ">= 4.0.0",
     "npm": ">= 3.0.0"
