@@ -1,5 +1,5 @@
 {
-  "name": "vue-multiselect",
+  "name": "@jdizm/vue-multiselect",
   "version": "2.2.0",
   "private": false,
   "types": "index.d.ts",
@@ -116,5 +116,10 @@
     "dist",
     "src",
     "index.d.ts"
-  ]
+  ],
+  "directories": {
+    "doc": "docs",
+    "test": "tests"
+  },
+  "dependencies": {}
 }
